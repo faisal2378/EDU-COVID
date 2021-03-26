@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+/* Navigation */
+
+.nav-container {
+    background: #E5FF42;
+    height: 108px;
+}
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 72px
+}
+
+nav ul {
+    display: flex;
+}
+
+nav .logo{
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.nav-items li{
+    list-style: none;
+    margin-right: 100px;
+}
+
