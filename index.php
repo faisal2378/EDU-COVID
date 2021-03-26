@@ -1,1 +1,1 @@
-<?php include 'beranda.html';>
+<?php include 'beranda.html';?>
